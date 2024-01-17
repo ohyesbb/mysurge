@@ -1,4 +1,4 @@
-DOMAIN-SUFFIX,push-kr.misakaf.org
-DOMAIN-SUFFIX,*.misakaf.org
-DOMAIN-SUFFIX,emby.aca.best:443
+DOMAIN-SUFFIX,push-kr.misakaf.org 
+DOMAIN-SUFFIX,*.misakaf.org 
+DOMAIN-SUFFIX,emby.aca.best:443 
 IP-CIDR,102.223.180.108/20,no-resolve
