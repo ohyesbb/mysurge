@@ -1,3 +1,5 @@
-DOMAIN-SUFFIX,*.misakaf.org
-DOMAIN-SUFFIX,*.aca.best
-IP-CIDR,102.223.180.108/32
+DOMAIN,push-kr.misakaf.org
+DOMAIN,stream1.misakaf.org
+DOMAIN,stream2.misakaf.org
+DOMAIN,stream3.misakaf.org
+IP-CIDR,102.223.180.108,no-resolve
