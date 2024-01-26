@@ -1,5 +1,5 @@
-HOST,push-kr.misakaf.org    
-HOST,emby.aca.best
-IP-CIDR,102.223.180.108/20
-HOST,porn.aca.best:443
-HOST,porn.aca.best
+IP-CIDR,102.223.180.108/24
+DOMAIN,stream3.misakaf.org
+DOMAIN,stream2.misakaf.org
+DOMAIN,stream1.misakaf.org
+DOMAIN,push-kr.misakaf.org
